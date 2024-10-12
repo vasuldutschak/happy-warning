@@ -1,0 +1,17 @@
+{
+  "name": "happy-warning",
+  "version": "0.0.1",
+  "description": "print happy warning with smiles",
+  "main": "index.js",
+  "repository": "https://github.com/vasuldutschak/happy-warning.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "console",
+    "warn",
+    "utility"
+  ],
+  "author": "Vasyl Dutchak",
+  "license": "ISC"
+}
