@@ -1,3 +1,3 @@
-export function happyWarning(message) {
-    console.warn('✌(‘ω’)✌',message,'✌(‘ω’)✌')
+export function happyWarning(message,type='warn') {
+    console[type]('✌(‘ω’)✌',message,'✌(‘ω’)✌')
 }
